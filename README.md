@@ -18,7 +18,7 @@ I enjoy turning ideas into working applications and I'm currently strengthening 
 - ☕ Familiar with Java and C++
 - 🌱 Currently learning REST APIs, FastAPI, PostgreSQL and Docker
 - 🚀 Building production-style projects for my developer portfolio
-- 🌍 Open to remote Software Development opportunities
+- 🌍 Open to Software Engineering opportunities with remote-first and international teams
 
 ---
 
